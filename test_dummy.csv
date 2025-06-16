@@ -1,0 +1,3 @@
+student_id,gender,part_time_job,diet_quality,parental_education_level,internet_quality,extracurricular_participation,exam_score
+S1,Male,Yes,Good,Bachelor,Good,Yes,88
+S2,Female,No,Fair,,Poor,No,72
