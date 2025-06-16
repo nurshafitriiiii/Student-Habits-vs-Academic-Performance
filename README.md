@@ -12,7 +12,6 @@ To build predictive models that estimate students' exam performance based on the
 |-----------|-------------|
 | `student_habits_performance.csv` | Source dataset (required for the code to run) |
 | `student_habits_vs_academic_perfomance.py` | Main Python script containing the full data analysis and machine learning pipeline |
-| `plots/` | Folder containing all visualization output (.png files) |
 | `README.md` | This file — explains the purpose, structure, and usage of the project |
 
 Technologies Used
