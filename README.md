@@ -70,7 +70,7 @@ Technologies Used
 1. Place `student_habits_performance.csv` in the same directory as the `.py` file.
 2. Run the script:
    ```bash
-   python student_habits_analysis.py
+   python student_habits_vs_academic_perfomance.py
    ```
 3. Check the `plots/` folder for saved charts.
 4. Read the terminal output for model comparisons.
