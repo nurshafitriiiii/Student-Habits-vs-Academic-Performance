@@ -1,13 +1,13 @@
 
-# 📘 README: Student Habits vs Academic Performance (Machine Learning Project)
+ README: Student Habits vs Academic Performance (Machine Learning Project)
 
-## 🔍 Project Overview
+1. Project Overview
 This project explores how various lifestyle factors influence student academic performance using machine learning. The dataset includes information on students' diet quality, internet access, parental education, part-time job status, extracurricular participation, and more — with the target variable being their **exam score**.
 
-## 🎯 Objective
+2. Objective
 To build predictive models that estimate students' exam performance based on their personal habits and demographic characteristics.
 
-## 📁 Files Included
+ Files Included
 | File Name | Description |
 |-----------|-------------|
 | `student_habits_performance.csv` | Source dataset (required for the code to run) |
@@ -15,14 +15,14 @@ To build predictive models that estimate students' exam performance based on the
 | `plots/` | Folder containing all visualization output (.png files) |
 | `README.md` | This file — explains the purpose, structure, and usage of the project |
 
-## 🧪 Technologies Used
+Technologies Used
 - **Language**: Python 3
 - **Libraries**: 
   - `pandas`, `numpy` for data handling
   - `matplotlib`, `seaborn` for visualizations
   - `scikit-learn` for machine learning
 
-## 🔧 Features & Workflow
+ Features & Workflow
 
 1. **Data Loading & Cleaning**
    - Loads CSV file
@@ -53,7 +53,7 @@ To build predictive models that estimate students' exam performance based on the
    - Uses R² Score and RMSE for comparison
    - Output printed directly to console
 
-## 📊 Outputs
+ Outputs
 - **Performance metrics** for each model printed in the terminal:
   ```
   Linear Regression → R²: 0.XX, RMSE: XX.XX
@@ -65,7 +65,7 @@ To build predictive models that estimate students' exam performance based on the
   - `numerical_distributions.png`
   - `correlation_heatmap.png`
 
-## ▶️ How to Run
+ How to Run
 
 1. Place `student_habits_performance.csv` in the same directory as the `.py` file.
 2. Run the script:
@@ -75,7 +75,7 @@ To build predictive models that estimate students' exam performance based on the
 3. Check the `plots/` folder for saved charts.
 4. Read the terminal output for model comparisons.
 
-## 📌 Notes
+ Notes
 - The code supports UTF-8 characters.
 - Script is modular and well-commented for ease of understanding.
 - Visualization files can be used in your final report or presentation.
